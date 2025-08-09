@@ -1,1 +1,4 @@
 
+This is a small weather application made with primarily HTML and CSS, with some javascript functionality with a weather API
+How to use:
+  Open the HTML file in a browser and use the search bar to look for a CITY that you want the weather for.
