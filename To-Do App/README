@@ -1,1 +1,36 @@
 
+# Simple To-Do List App
+
+A minimalist web-based To-Do List application built using **HTML**, **CSS**, and **JavaScript**.
+
+## Features
+
+- **Add tasks** to your list.
+- **Check off completed tasks**.
+- **Delete tasks** you no longer need.
+
+## Demo
+
+Open `index.html` in your browser to start using the app.
+
+## Technologies Used
+
+- **HTML**
+- **CSS**
+- **JavaScript**
+
+## Project Structure
+
+```
+├── index.html
+├── style.css
+└── script.js
+```
+
+## About
+
+This app is designed for simplicity and ease of use. There is no setup required—just open the HTML file and start organizing your tasks!
+
+## License
+
+Feel free to use or modify this project for personal or educational purposes.
