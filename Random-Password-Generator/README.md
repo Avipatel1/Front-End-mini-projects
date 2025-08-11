@@ -17,7 +17,7 @@ The password generator utilizes built-in browser functionality to create random 
 
 1. **Clone the Repository**
     ```bash
-git clone https://github.com/Avipatel1/Front-End-mini-projects.git
+    git clone https://github.com/Avipatel1/Front-End-mini-projects.git
     ```
 2. **Open the App**
     - Navigate to the `Random-Password-Generator` folder inside the cloned repository.
