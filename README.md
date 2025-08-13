@@ -43,14 +43,5 @@ Feel free to explore, clone, and tweak any of the projects!
    ```
 3. **Open `index.html` in your browser and enjoy!**
 
-## Contributing
-
-Contributions are welcome! If you have a cool idea for a mini project, feel free to open an issue or submit a pull request.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
-
----
 
 Happy coding!
